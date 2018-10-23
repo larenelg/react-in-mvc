@@ -1,0 +1,7 @@
+{
+    "presets": ["env", "react"],
+    "plugins": [
+        "inline-react-svg",
+        "transform-object-rest-spread"
+    ]
+}
