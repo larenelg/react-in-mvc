@@ -13,7 +13,7 @@ module.exports = {
                 loader: 'file-loader',
                 options: {
                     name: '[name].[hash].[ext]',
-                    publicPath: '/components/'
+                    publicPath: '/React/dist/'
                 },
             },
             {

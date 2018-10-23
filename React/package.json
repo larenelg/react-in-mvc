@@ -21,6 +21,7 @@
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
     "babel-runtime": "^6.26.0",
+    "file-loader": "^2.0.0",
     "react-svg-loader": "^2.1.0",
     "webpack": "^4.15.1",
     "webpack-cli": "^3.0.8"
